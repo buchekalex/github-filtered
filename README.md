@@ -12,6 +12,8 @@
 
 ### Golang:
 
+[How to...](http://www.golangprograms.com/)
+
 [Language specification](https://golang.org/ref/spec)
 
 [Handle errors](https://github.com/golang/go/wiki/CodeReviewComments#handle-errors)
@@ -31,8 +33,6 @@
 [Go Data Structures](https://research.swtch.com/godata)
 
 [Function Types in Go](http://jordanorelli.com/post/42369331748/function-types-in-go-golang)
-
-[How to...](http://www.golangprograms.com/)
 
 [Разбираемся в Go: пакет io](https://habrahabr.ru/post/306914/)
 
