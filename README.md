@@ -51,9 +51,9 @@ https://awesome-go.com/ - A curated list of awesome Go frameworks, libraries and
 
 [Постулаты Go](https://habrahabr.ru/post/272383/)
 
-[Зачем в Go амперсанд и звёздочка (& и *)?] (https://habrahabr.ru/post/339192/)
+[Зачем в Go амперсанд и звёздочка (/& и /*)](https://habrahabr.ru/post/339192/)
 
-[Как не наступать на грабли в Go] (https://habrahabr.ru/post/325468/#ukazateli)
+[Как не наступать на грабли в Go](https://habrahabr.ru/post/325468/#ukazateli)
 
 
 
