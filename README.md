@@ -164,7 +164,9 @@ https://awesome-go.com/ - A curated list of awesome Go frameworks, libraries and
 
 [Space Vim](https://github.com/SpaceVim/SpaceVim)
 
+# Videos
 
+[How to design a Go library | Богдан Сторожук](https://www.youtube.com/watch?v=PgWrgPYpmE8&feature=youtu.be)
 # Another awesome lists of awesome lists
 
 [awesome list of awesome list of awesome lists)(https://github.com/t3chnoboy/awesome-awesome-awesome)
@@ -172,6 +174,7 @@ https://awesome-go.com/ - A curated list of awesome Go frameworks, libraries and
 [Another awesome list with good structure on variery of topics](https://github.com/sindresorhus/awesome)
 
 [Awesome-awesome](https://github.com/emijrp/awesome-awesome)
+
 
 
 
