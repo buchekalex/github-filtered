@@ -3,28 +3,28 @@ Awesome list os great github repositories
 # Awesome lists 
 - [Roadmaps](https://github.com/orsanawwad/awesome-roadmaps)
 - [Technical Interview megarepo](https://github.com/jdsutton/Technical-Interview-Megarepo)
-
+#
 - [Competitive programming](https://github.com/lnishan/awesome-competitive-programming)
-
+#
 - [Cli apps](https://github.com/agarrharr/awesome-cli-apps)
 - [Zsh plugins](https://github.com/unixorn/awesome-zsh-plugins)
-
+#
 - [spellbook of modern webdev](https://github.com/dexteryy/spellbook-of-modern-webdev)
 - [Hacking](https://github.com/carpedm20/awesome-hacking)
 - [Emails](https://github.com/jonathandion/awesome-emails)
 - [Monorepo](https://github.com/korfuri/awesome-monorepo)
 - [Spinners](https://github.com/yangshun/awesome-spinners)
-
+#
 - [Linux](https://github.com/inputsh/awesome-linux)
 - [Linux Containers](https://github.com/Friz-zy/awesome-linux-containers)
 - [ssh](https://github.com/moul/awesome-ssh)
-
+#
 - [Regex](https://github.com/aloisdg/awesome-regex)
 - [GeoJSON](https://github.com/tmcw/awesome-geojson)
 - [SysAdmin](https://github.com/n1trux/awesome-sysadmin)
-
+#
 - [Terraform](https://github.com/shuaibiyy/awesome-terraform)
-
+#
 - [SQL Alchemy](https://github.com/dahlia/awesome-sqlalchemy)
 - [Network analysis](https://github.com/briatte/awesome-network-analysis)
 - [Newsletters](https://github.com/zudochkin/awesome-newsletters#go)
