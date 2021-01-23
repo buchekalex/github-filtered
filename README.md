@@ -43,6 +43,7 @@ Awesome list os great github repositories
 - [Chatbots](https://github.com/fendouai/Awesome-Chatbot)
 #
 - [Healthcare](https://github.com/kakoni/awesome-healthcare)
+- [Open Sustainable Technology](https://github.com/protontypes/open-sustainable-technology.git) Listing of global open technology projects to sustain a stable climate, energy supply, and vital natural resources. 
 #
 - [SEO](https://github.com/marcobiedermann/search-engine-optimization)
 - [Static websites solutions](https://github.com/agarrharr/awesome-static-website-services)
