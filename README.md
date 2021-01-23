@@ -3,6 +3,7 @@ Awesome list os great github repositories
 # Awesome lists 
 - [Roadmaps](https://github.com/orsanawwad/awesome-roadmaps)
 - [Technical Interview megarepo](https://github.com/jdsutton/Technical-Interview-Megarepo)
+- [Pinned gists](https://github.com/matchai/awesome-pinned-gists) A curated list of open source tools for adding dynamic data to pinned gists.
 #
 - [Competitive programming](https://github.com/lnishan/awesome-competitive-programming)
 #
@@ -11,6 +12,7 @@ Awesome list os great github repositories
 #
 - [spellbook of modern webdev](https://github.com/dexteryy/spellbook-of-modern-webdev)
 - [Hacking](https://github.com/carpedm20/awesome-hacking)
+- [Captcha](https://github.com/ZYSzys/awesome-captcha) Curated list of awesome captcha libraries and captcha crack tools
 - [Emails](https://github.com/jonathandion/awesome-emails)
 - [Monorepo](https://github.com/korfuri/awesome-monorepo)
 - [Spinners](https://github.com/yangshun/awesome-spinners)
@@ -38,12 +40,14 @@ Awesome list os great github repositories
 - [MQTT](https://github.com/hobbyquaker/awesome-mqtt)
 - [API](https://github.com/Kikobeats/awesome-api)
 - [Microservices](https://github.com/mfornos/awesome-microservices)
+- [Prometheus](https://github.com/roaldnefs/awesome-prometheus) Resources, projects and tools
 #
 - [Awesome streaming](https://github.com/manuzhang/awesome-streaming)
 - [Chatbots](https://github.com/fendouai/Awesome-Chatbot)
 #
 - [Healthcare](https://github.com/kakoni/awesome-healthcare)
-- [Open Sustainable Technology](https://github.com/protontypes/open-sustainable-technology.git) Listing of global open technology projects to sustain a stable climate, energy supply, and vital natural resources. 
+[Agriculture](https://github.com/brycejohnston/awesome-agriculture) A curated list of awesome open source technology for agriculture, farming, and gardening.
+- [Open Sustainable Technology](https://github.com/protontypes/open-sustainable-technology) Listing of global open technology projects to sustain a stable climate, energy supply, and vital natural resources. 
 #
 - [SEO](https://github.com/marcobiedermann/search-engine-optimization)
 - [Static websites solutions](https://github.com/agarrharr/awesome-static-website-services)
@@ -57,7 +61,17 @@ Awesome list os great github repositories
 [Kaggle past solutions](https://github.com/EliotAndres/kaggle-past-solutions)
 [Productivity](https://github.com/jyguyomarch/awesome-productivity)
 [Mad science](https://github.com/feross/awesome-mad-science)
+[Knowledge management](https://github.com/brettkromkamp/awesome-knowledge-management) A curated list of amazingly awesome articles, people, applications, software libraries and projects related to the knowledge management space in general, and in particular Contextualise, the (personal and collaborative) knowledge management application that I am developing.
+[Blockchain](https://github.com/yjjnls/awesome-blockchain) Curated list of resources for the development and applications of block chain.
+[Fantasy books](https://github.com/RichardLitt/awesome-fantasy) A list of fantasy books worth reading.
+[Discord communities](https://github.com/mhxion/awesome-discord-communities) Curated list of awesome Discord communities for developers, game engineers, hackers, hobbyists, mathematicians and tech enthusiasts.
+[Deepfakes](https://github.com/aerophile/awesome-deepfakes)
 
+### Finance&Investing
+[Startup](https://github.com/KrishMunot/awesome-startup) A curated list of awesome books, videos, courses and resources about making a startup
+[Investing](https://github.com/mr-karan/awesome-investing)  Curated list of investment & finance related resources.
+[AI In Finance](https://github.com/georgezouq/awesome-ai-in-finance) research, tools and code that people use to beat the market.
+[Decentralizaed finance](https://github.com/ong/awesome-decentralized-finance) A curated list of awesome decentralized finance projects, software, and resources.
 
 ### Security
 - [Anti censorship](https://github.com/danoctavian/awesome-anti-censorship)
@@ -65,6 +79,7 @@ Awesome list os great github repositories
 - [Threat detection](https://github.com/0x4D31/awesome-threat-detection)
 
 ### Computer science
+- [Software architecture](https://github.com/simskij/awesome-software-architecture.git) aims to describe the high level structures of software as well as the discipline of creating them. As this topic is pretty broad, it might contain some resources that are also present in more niche lists.
 
 - [Design patterns](https://github.com/DovAmir/awesome-design-patterns)
 - [Design systems](https://github.com/alexpate/awesome-design-systems)
@@ -101,6 +116,7 @@ Awesome list os great github repositories
 - [Go Data Structures](https://research.swtch.com/godata)
 - [Function Types in Go](http://jordanorelli.com/post/42369331748/function-types-in-go-golang)
 - [Разбираемся в Go: пакет io](https://habrahabr.ru/post/306914/)
+- [Golang TLS](https://github.com/denji/golang-tls) 
 
 ### Articles: 
 - [How to avoid Go gotchas](https://divan.github.io/posts/avoid_gotchas/)
