@@ -82,6 +82,7 @@ Awesome list os great github repositories
 - [Collection of information about the Go Programming Language](https://github.com/golang/go/wiki)
 
 ### Golang:
+- [Auth](https://github.com/casbin/awesome-auth#authN-golang) Awesome Authentication & Authorization
 - [Go Patterns](https://github.com/tmrts/go-patterns)
 - [Go China](https://github.com/yinggaozhen/awesome-go-cn)
 - [Go Storage](https://github.com/gostor/awesome-go-storage)
