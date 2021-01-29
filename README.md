@@ -116,6 +116,11 @@ Awesome list os great github repositories
 - [Go Data Structures](https://research.swtch.com/godata)
 - [Function Types in Go](http://jordanorelli.com/post/42369331748/function-types-in-go-golang)
 - [Разбираемся в Go: пакет io](https://habrahabr.ru/post/306914/)
+
+
+### Userful Repositories
+- [Gcloud compatible logger](https://github.com/teltech/logger)
+- [Saga pattern implementation](https://github.com/lysu/go-saga)
 - [Golang TLS](https://github.com/denji/golang-tls) 
 
 ### Articles: 
