@@ -129,6 +129,7 @@ Awesome list os great github repositories
 - [Docker cheat sheet](https://github.com/wsargent/docker-cheat-sheet)
 - [Go advice](https://github.com/cristaloleg/go-advice)
 - [Space Vim](https://github.com/SpaceVim/SpaceVim)
+- [Go internals: invariance and memory layout of slices](https://eli.thegreenplace.net/2021/go-internals-invariance-and-memory-layout-of-slices/)
 
 # Videos
 [How to design a Go library | Богдан Сторожук](https://www.youtube.com/watch?v=PgWrgPYpmE8&feature=youtu.be)
