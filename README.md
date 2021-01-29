@@ -122,6 +122,7 @@ Awesome list os great github repositories
 - [Gcloud compatible logger](https://github.com/teltech/logger)
 - [Saga pattern implementation](https://github.com/lysu/go-saga)
 - [Golang TLS](https://github.com/denji/golang-tls) 
+- [GitHub Actions with Golang](https://github.com/mvdan/github-actions-golang)
 
 ### Articles: 
 - [How to avoid Go gotchas](https://divan.github.io/posts/avoid_gotchas/)
