@@ -151,6 +151,7 @@ Awesome list os great github repositories
 ### Networking
 - [set of Ansible scripts that simplify the setup of a personal WireGuard and IPsec VPN](https://github.com/trailofbits/algo)
 - [Chisel is a fast TCP/UDP tunnel, transported over HTTP, secured via SSH](https://github.com/jpillora/chisel)
+- [VPN Networking books](https://www.quora.com/What-book-for-VPN-networking-is-the-best-to-start-from)
 
 
 
