@@ -147,6 +147,8 @@ Awesome list os great github repositories
 - [Another awesome list with good structure on variery of topics](https://github.com/sindresorhus/awesome)
 - [Awesome-awesome](https://github.com/emijrp/awesome-awesome)
 
+### Networking
+- [set of Ansible scripts that simplify the setup of a personal WireGuard and IPsec VPN](https://github.com/trailofbits/algo)
 
 
 
