@@ -143,7 +143,7 @@ Awesome list os great github repositories
 [How to design a Go library | Богдан Сторожук](https://www.youtube.com/watch?v=PgWrgPYpmE8&feature=youtu.be)
 # Another awesome lists of awesome lists
 
-- [awesome list of awesome list of awesome lists)(https://github.com/t3chnoboy/awesome-awesome-awesome)
+- [awesome list of awesome list of awesome lists](https://github.com/t3chnoboy/awesome-awesome-awesome)
 - [Another awesome list with good structure on variery of topics](https://github.com/sindresorhus/awesome)
 - [Awesome-awesome](https://github.com/emijrp/awesome-awesome)
 
