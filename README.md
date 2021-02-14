@@ -55,6 +55,8 @@ Awesome list os great github repositories
 
 ### Other
 
+[Generate API clients from Go web api](https://github.com/pksunkara/alpaca)
+
 [Programmers](https://github.com/rekihattori/awesome-programmers)
 [Youtubers](https://github.com/JoseDeFreitas/awesome-youtubers#web-development)
 [Movies for hackers](https://github.com/k4m4/movies-for-hackers)
