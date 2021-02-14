@@ -157,5 +157,6 @@ Awesome list os great github repositories
 - [Fast reverse proxy to help you expose a local server behind a NAT or firewall to the Internet](https://github.com/fatedier/frp)
 
 
-
+### AMQTP, Event Based solutions
+- [Protocol allowing to push data updates to web browsers and other HTTP clients in a convenient, fast, reliable and battery-efficient way](https://github.com/dunglas/mercure)
 
