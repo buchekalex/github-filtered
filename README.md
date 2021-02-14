@@ -68,11 +68,11 @@ Awesome list os great github repositories
 [Deepfakes](https://github.com/aerophile/awesome-deepfakes)
 
 ### Finance&Investing
-[Startup](https://github.com/KrishMunot/awesome-startup) A curated list of awesome books, videos, courses and resources about making a startup
-[Investing](https://github.com/mr-karan/awesome-investing)  Curated list of investment & finance related resources.
-[AI In Finance](https://github.com/georgezouq/awesome-ai-in-finance) research, tools and code that people use to beat the market.
-[Decentralizaed finance](https://github.com/ong/awesome-decentralized-finance) A curated list of awesome decentralized finance projects, software, and resources.
-
+- [Startup](https://github.com/KrishMunot/awesome-startup) A curated list of awesome books, videos, courses and resources about making a startup
+- [Investing](https://github.com/mr-karan/awesome-investing)  Curated list of investment & finance related resources.
+- [AI In Finance](https://github.com/georgezouq/awesome-ai-in-finance) research, tools and code that people use to beat the market.
+- [Decentralizaed finance](https://github.com/ong/awesome-decentralized-finance) A curated list of awesome decentralized finance projects, software, and resources.
+- [Curated collection of blockchain & cryptocurrency links](https://github.com/coinpride/CryptoList)
 ### Security
 - [Anti censorship](https://github.com/danoctavian/awesome-anti-censorship)
 - [Personal security](https://github.com/Lissy93/personal-security-checklist)
