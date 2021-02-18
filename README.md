@@ -89,7 +89,7 @@ Awesome list os great github repositories
 - [Distributed systems](https://github.com/rShetty/awesome-distributed-systems)
 - [Programming books](https://github.com/zero-equals-false/awesome-programming-books)
 - [Courses](https://github.com/prakhar1989/awesome-courses)
-
+- [Algorythms and tutorials](https://yourbasic.org)
 
 # GoLang reading materials:
 
