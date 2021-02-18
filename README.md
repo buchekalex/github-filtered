@@ -54,7 +54,7 @@ Awesome list os great github repositories
 - [Web animation](https://github.com/sergey-pimenov/awesome-web-animation)
 
 ### Other
-
+[Software engineering questions for interview](https://github.com/CrazySquirrel/Outtalent)
 [Generate API clients from Go web api](https://github.com/pksunkara/alpaca)
 
 [Programmers](https://github.com/rekihattori/awesome-programmers)
