@@ -121,6 +121,7 @@ Awesome list os great github repositories
 
 ### K8s
 - [Troubleshooting deployments](https://learnk8s.io/troubleshooting-deployments)
+- [Ingress vs ingressroute](https://dave.cheney.net/paste/ingress-is-dead-long-live-ingressroute.pdf)
 
 ### Userful Repositories
 - [Gcloud compatible logger](https://github.com/teltech/logger)
