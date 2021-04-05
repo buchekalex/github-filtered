@@ -90,6 +90,7 @@ Awesome list os great github repositories
 - [Programming books](https://github.com/zero-equals-false/awesome-programming-books)
 - [Courses](https://github.com/prakhar1989/awesome-courses)
 - [Algorythms and tutorials](https://yourbasic.org)
+- [Big O notataion cheet sheet](https://www.bigocheatsheet.com)
 
 # GoLang reading materials:
 
