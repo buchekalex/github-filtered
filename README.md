@@ -1,28 +1,4 @@
 Awesome list os great github repositories
-
-### Finance&Investing
-- [Startup](https://github.com/KrishMunot/awesome-startup) A curated list of awesome books, videos, courses and resources about making a startup
-- [Investing](https://github.com/mr-karan/awesome-investing)  Curated list of investment & finance related resources.
-- [AI In Finance](https://github.com/georgezouq/awesome-ai-in-finance) research, tools and code that people use to beat the market.
-- [Decentralizaed finance](https://github.com/ong/awesome-decentralized-finance) A curated list of awesome decentralized finance projects, software, and resources.
-- [Curated collection of blockchain & cryptocurrency links](https://github.com/coinpride/CryptoList)
-### Security
-- [Anti censorship](https://github.com/danoctavian/awesome-anti-censorship)
-- [Personal security](https://github.com/Lissy93/personal-security-checklist)
-- [Threat detection](https://github.com/0x4D31/awesome-threat-detection)
-
-### Computer science
-- [Software architecture](https://github.com/simskij/awesome-software-architecture.git) aims to describe the high level structures of software as well as the discipline of creating them. As this topic is pretty broad, it might contain some resources that are also present in more niche lists.
-
-- [Design patterns](https://github.com/DovAmir/awesome-design-patterns)
-- [Design systems](https://github.com/alexpate/awesome-design-systems)
-- [Recursion schemes](https://github.com/passy/awesome-recursion-schemes)
-- [Distributed systems](https://github.com/rShetty/awesome-distributed-systems)
-- [Programming books](https://github.com/zero-equals-false/awesome-programming-books)
-- [Courses](https://github.com/prakhar1989/awesome-courses)
-- [Algorythms and tutorials](https://yourbasic.org)
-- [Big O notataion cheet sheet](https://www.bigocheatsheet.com)
-
 # GoLang reading materials:
 
 ![gopher logo](https://cdn-images-1.medium.com/max/607/0*fyyS1OHEaQ2il8Tg.png)
@@ -54,6 +30,31 @@ Awesome list os great github repositories
 ### K8s
 - [Troubleshooting deployments](https://learnk8s.io/troubleshooting-deployments)
 - [Ingress vs ingressroute](https://dave.cheney.net/paste/ingress-is-dead-long-live-ingressroute.pdf)
+
+
+### Finance&Investing
+- [Startup](https://github.com/KrishMunot/awesome-startup) A curated list of awesome books, videos, courses and resources about making a startup
+- [Investing](https://github.com/mr-karan/awesome-investing)  Curated list of investment & finance related resources.
+- [AI In Finance](https://github.com/georgezouq/awesome-ai-in-finance) research, tools and code that people use to beat the market.
+- [Decentralizaed finance](https://github.com/ong/awesome-decentralized-finance) A curated list of awesome decentralized finance projects, software, and resources.
+- [Curated collection of blockchain & cryptocurrency links](https://github.com/coinpride/CryptoList)
+- 
+### Security
+- [Anti censorship](https://github.com/danoctavian/awesome-anti-censorship)
+- [Personal security](https://github.com/Lissy93/personal-security-checklist)
+- [Threat detection](https://github.com/0x4D31/awesome-threat-detection)
+
+### Computer science
+- [Software architecture](https://github.com/simskij/awesome-software-architecture.git) aims to describe the high level structures of software as well as the discipline of creating them. As this topic is pretty broad, it might contain some resources that are also present in more niche lists.
+
+- [Design patterns](https://github.com/DovAmir/awesome-design-patterns)
+- [Design systems](https://github.com/alexpate/awesome-design-systems)
+- [Recursion schemes](https://github.com/passy/awesome-recursion-schemes)
+- [Distributed systems](https://github.com/rShetty/awesome-distributed-systems)
+- [Programming books](https://github.com/zero-equals-false/awesome-programming-books)
+- [Courses](https://github.com/prakhar1989/awesome-courses)
+- [Algorythms and tutorials](https://yourbasic.org)
+- [Big O notataion cheet sheet](https://www.bigocheatsheet.com)
 
 ### Userful Repositories
 - [Gcloud compatible logger](https://github.com/teltech/logger)
