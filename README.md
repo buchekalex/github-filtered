@@ -26,6 +26,7 @@ Awesome list os great github repositories
 - [Go Data Structures](https://research.swtch.com/godata)
 - [Function Types in Go](http://jordanorelli.com/post/42369331748/function-types-in-go-golang)
 - [Разбираемся в Go: пакет io](https://habrahabr.ru/post/306914/)
+- [GRPC error handling](https://medium.com/utility-warehouse-technology/advanced-grpc-error-usage-1b37398f0ff4)
 
 ### K8s
 - [Troubleshooting deployments](https://learnk8s.io/troubleshooting-deployments)
