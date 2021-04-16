@@ -31,6 +31,8 @@ Awesome list os great github repositories
 - [Troubleshooting deployments](https://learnk8s.io/troubleshooting-deployments)
 - [Ingress vs ingressroute](https://dave.cheney.net/paste/ingress-is-dead-long-live-ingressroute.pdf)
 
+### Databases
+- [SQL Lite is the only database you will ever need in most cases](https://unixsheikh.com/articles/sqlite-the-only-database-you-will-ever-need-in-most-cases.html)
 
 ### Finance&Investing
 - [Startup](https://github.com/KrishMunot/awesome-startup) A curated list of awesome books, videos, courses and resources about making a startup
