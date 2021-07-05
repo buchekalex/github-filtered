@@ -166,3 +166,7 @@ Awesome list os great github repositories
 - [Discord communities](https://github.com/mhxion/awesome-discord-communities) Curated list of awesome Discord communities for developers, game engineers, hackers, hobbyists, mathematicians and tech enthusiasts.
 - [Deepfakes](https://github.com/aerophile/awesome-deepfakes)
 
+
+### Books
+- [Monolith to Microservices by Sam Newman](https://www.oreilly.com/library/view/monolith-to-microservices/9781492047834/)
+
